@@ -1,0 +1,35 @@
+body
+{
+    background-image: url("https://i.pinimg.com/736x/62/a6/92/62a69295897379d0d70ef47c6570ab3b.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+button
+{
+    height: 60px;
+    width:60px;
+    border-color: black;
+    border-radius: 30%;
+    font-size: 40px;
+    color: darkblue;
+    text-align: center;
+    background-image: linear-gradient(120deg,orange,white,green);
+}
+#result
+{
+    height: 70px;
+    width: 250px;
+    border-radius: 30%;
+    border-color: black;
+    color: darkblue;
+    font-size: 40px;
+    background-image: linear-gradient(120deg,orange,white,green);
+}
+h1{
+    color: darkblue;
+}
+table{
+    border: 3px solid black;
+    border-radius: 10%;
+}
